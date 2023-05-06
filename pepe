@@ -1,0 +1,9 @@
+SNAPRAID
+SnapRAID is an open source project under the GPL license lvl 3
+It calculates parity value of disk array and protects upto 6 disk failures
+It is called folder based backup tool .
+
+Features: 
+It can hash in data invoking data integrity 
+You can add data to the disk
+Data can be of different sizes
